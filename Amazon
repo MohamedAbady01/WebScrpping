@@ -1,0 +1,2 @@
+Amazon
+This Python script uses Selenium to scrape product data from Amazon.sa, specifically targeting product titles, prices, and ratings across multiple pages. The scraped data is saved as a CSV file for easy analysis.
